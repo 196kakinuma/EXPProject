@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20cc3fb9f4ae11f44b0ba54a1fb1655f, type: 3}
+  m_Name: WPGQuestion
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - one: "\u3042"
+      two: "\u0B07"
+    - one: "\u3044"
+      two: "\u0B1B"
+    - one: "\u3046"
+      two: "\u0B22\u0B3C"
+    - one: "\u3048"
+      two: "\u03C4"
+    - one: "\u304A"
+      two: "\u0A95"
+    - one: "\u304B"
+      two: "\u0394"
+    - one: "\u304D"
+      two: "\u0A95\u0AC3"
+    - one: "\u304F"
+      two: "\u03B3"
+    - one: "\u3051"
+      two: "\u03A9"
+    - one: "\u3053"
+      two: "\u222B"
+    - one: "\u3055"
+      two: "\u0B0F"
+    - one: "\u3057"
+      two: "\u0932"
+    - one: "\u3059"
+      two: "\u0915"
+    - one: "\u305B"
+      two: "\u03A3"
+    - one: "\u305D"
+      two: "\xA7"
+    - one: "\u305F"
+      two: "\u2020"
+    - one: "\u3061"
+      two: "\u045B"
+    - one: "\u3064"
+      two: "\u4EDD"
+    - one: "\u3066"
+      two: "\u0938"
+    - one: "\u3068"
+      two: "\u091E"

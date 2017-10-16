@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1db5ac57311ff64ebf748154ecd3163, type: 3}
+  m_Name: DCGQuestion
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - Knob1: 0
+      Knob2: 3
+      Knob3: 0
+      Knob4: 6
+      Knob5: 5
+    - Knob1: 1
+      Knob2: 4
+      Knob3: 2
+      Knob4: 1
+      Knob5: 2
+    - Knob1: 2
+      Knob2: 5
+      Knob3: 4
+      Knob4: 2
+      Knob5: 4
+    - Knob1: 3
+      Knob2: 6
+      Knob3: 6
+      Knob4: 3
+      Knob5: 0
